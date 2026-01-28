@@ -2,15 +2,20 @@ name: Daily Fuchu Gazette Monitor
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # runs every day at 00:00 UTC
-  workflow_dispatch:      # manual run option
+    # Runs every day at 09:00 JST (00:00 UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   check:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # IMPORTANT: allows saving snapshot safely
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -22,7 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run monitor script
+      - name: Run page checker
         env:
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -31,10 +36,19 @@ jobs:
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
         run: python checker.py
 
-      - name: Commit snapshot if changed
+      - name: Save snapshot if changed
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add last_snapshot.txt
-          git commit -m "Update snapshot" || echo "No changes to commit"
-          git push
+
+          if [ -f last_snapshot.txt ]; then
+            git add last_snapshot.txt
+            if git diff --cached --quiet; then
+              echo "No snapshot change to commit"
+            else
+              git commit -m "Update gazette snapshot"
+              git push
+            fi
+          else
+            echo "Snapshot file does not exist yet"
+          fi
