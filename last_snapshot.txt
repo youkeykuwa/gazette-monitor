@@ -193,9 +193,14 @@
 
 <div class="wysiwyg_wp"><p>å¸ãå®æ½ããæ½ç­ãäºæ¥­ãªã©ããç¥ãããããåºå ±ãµã¡ãããããæ¯æ1æ¥ã»15æ¥ã®2åçºè¡ãã¦ãã¾ãã<br>ãåºå ±ãµã¡ãããã¯ãæ¥åç´ï¼ææ¥ãç£çµãæ±äº¬ãæ¥çµãæ¯æ¥ãèª­å£²ã®åç´æåï¼ã«æãè¾¼ãã§éå¸ãã¦ããã»ããå¸æãããæ¹ã«ã <a href="https://www.city.fuchu.tokyo.jp/gyosei/johokokai/koho/kohoshi/kohokibohaifu.html" class="innerLink">ç´æ¥éå¸</a>ããã¾ãã<br>ãªããåæåã»ã³ã¿ã¼ãå¸æ¿æå ±ã»ã³ã¿ã¼ãªã©ã®å¸ã®æ½è¨­ãå¸åééåé§ãå¸åã®ã³ã³ãäºã¨ã³ã¹ã¹ãã¢ï¼ãã¡ããªã¼ãã¼ãã»ã»ãã³ã¤ã¬ãã³ï¼ååºã§éå¸ãã¦ããã»ããã¹ãã¼ããã©ã³ãã¿ãã¬ããåãç¡æã¢ããª <a href="https://www.city.fuchu.tokyo.jp/gyosei/johokokai/koho/kohoshi/machiiro.html" class="innerLink">ãããã¤ã­ã</a>ã<a href="/gyosei/johokokai/koho/kohoshi/catalogpocket.html" class="innerLink">ãã«ã¿ã­ã°ãã±ããã</a>ã§éä¿¡ãã¦ãã¾ãã<br>ã¾ããç®ã®ä¸èªç±ãª <ruby><rb>æ¹</rb><rp>(</rp><rt>ãã</rt><rp>)</rp></ruby>ã®ããã«ãï¼£ï¼¤ã«å¹ãè¾¼ãã ãå£°ã®åºå ±ãããéããã¦ãã¾ãã</p><ul><li>åºå ±ã®ããã¯ãã³ãã¼ã¯ã<a href="https://www.city.fuchu.tokyo.jp/gyosei/johokokai/koho/kohoshi/koho/index.html" class="innerLink">åºå ±ãµã¡ãã</a>ããè¦§ãã ããã</li></ul></div>
 <div class="img-area">
-<p class="imglink-side3"><a class="innerLink" href="/gyosei/johokokai/koho/kohoshi/koho/reiwa8nenhakkou/r080201.html"><img src="index.images/260201kouho_01P_1.png" width="160" height="237" alt="ä»¤å8å¹´2æ1æ¥å·"></a><br><span>2æ1æ¥å·</span></p>
-<p class="imglink-side3"><a class="innerLink" href="/gyosei/johokokai/koho/kohoshi/koho/reiwa8nenhakkou/r080115.html"><img src="index.images/260115kouho_01P.png" width="160" height="237" alt="åºå ±ãµã¡ããä»¤å8å¹´1æ15æ¥å·"></a><br><span>1æ15æ¥å·</span></p>
-<p class="imglink-side3"><a class="innerLink" href="/gyosei/johokokai/koho/kohoshi/koho/reiwa8nenhakkou/r080101.html"><img src="index.images/260101kouho_01P_1.png" width="160" height="237" alt="åºå ±ãµã¡ããä»¤å8å¹´1æ1æ¥å·"></a><br><span>1æ1æ¥å·</span></p>
+<p class="imglink-side3"><a class="innerLink" href="/gyosei/johokokai/koho/kohoshi/koho/reiwa8nenhakkou/r080215.html"><img src="index.images/260215kouho_01P.png" width="300" height="444" alt="ä»¤å8å¹´2æ15æ¥å·"></a><br><span>2æ15æ¥å·</span></p>
+
+
+</div>
+<div class="img-area">
+<p class="imglink-side3"><a class="innerLink" href="/gyosei/johokokai/koho/kohoshi/koho/reiwa8nenhakkou/r080201.html"><img src="index.images/260201kouho_01P_1.png" width="300" height="444" alt="ä»¤å8å¹´2æ1æ¥å·"></a><br><span>2æ1æ¥å·</span></p>
+<p class="imglink-side3"><a class="innerLink" href="/gyosei/johokokai/koho/kohoshi/koho/reiwa8nenhakkou/r080115.html"><img src="index.images/260115kouho_01P.png" width="300" height="444" alt="åºå ±ãµã¡ããä»¤å8å¹´1æ15æ¥å·"></a><br><span>1æ15æ¥å·</span></p>
+<p class="imglink-side3"><a class="innerLink" href="/gyosei/johokokai/koho/kohoshi/koho/reiwa8nenhakkou/r080101.html"><img src="index.images/260101kouho_01P_1.png" width="300" height="444" alt="åºå ±ãµã¡ããä»¤å8å¹´1æ1æ¥å·"></a><br><span>1æ1æ¥å·</span></p>
 </div>
 
 
