@@ -67,8 +67,12 @@
 <p class="sp_nav_link02"><a href="/faq/index.html">ããããè³ªå</a></p>
 <p class="sp_nav_link02"><a href="/event/calendar/list_calendar.html">ã¤ãã³ãã«ã¬ã³ãã¼</a></p>
 <p class="sp_nav_link02"><a href="/sitemap.html">ãµã¤ãããã</a></p>
-<p class="sp_nav_link02" lang="en"><a href="https://www.city.fuchu.tokyo.jp/multilingual/index.html">Multilingual</a></p>
 <p class="sp_nav_link02"><a href="https://www.yasanichi.jp/proxy/FCU?target=https://www.city.fuchu.tokyo.jp/">ããããã«ã»ãã</a></p>
+<p class="sp_nav_link02"><a href="https://honyaku.j-server.com/LUCFUCHU/ns/w4/jaen/">English<br>ï¼è±èªï¼</a></p>
+<p class="sp_nav_link02"><a href="https://honyaku.j-server.com/LUCFUCHU/ns/w4/jazh/">ç°¡ä½ä¸­æ<br>ï¼ä¸­å½èªç°¡ä½å­ï¼</a></p>
+<p class="sp_nav_link02"><a href="https://honyaku.j-server.com/LUCFUCHU/ns/w4/jazhb/">ç¹é«ä¸­æ<br>ï¼ä¸­å½èªç¹ä½å­ï¼</a></p>
+<p class="sp_nav_link02"><a href="https://honyaku.j-server.com/LUCFUCHU/ns/w4/jako/">íêµ­ì´<br>ï¼éå½èªï¼</a></p>
+<p class="sp_nav_link02"><a href="https://pvrtc.plusvoice.co.jp/cc/fuchu-denwa" target="_blank">æè©±ã§é»è©±ãã</a></p>
 </div>
 </div>
 </div>
@@ -132,8 +136,22 @@
 <li><a href="/shikaku/index.html">è¦è¦éå®³èåããµã¤ã</a></li>
 <li><a href="/sitemap.html">ãµã¤ãããã</a></li>
 <li><a href="https://www.zoomsight-sv.jp/FCU/controller/index.html#https://www.city.fuchu.tokyo.jp">é³å£°èª­ã¿ä¸ãã»æå­æ¡å¤§</a></li>
-<li lang="en"><a href="https://www.city.fuchu.tokyo.jp/multilingual/index.html">Multilingual</a></li>
-<li><a href="https://www.yasanichi.jp/proxy/FCU?target=https://www.city.fuchu.tokyo.jp/">ããããã«ã»ãã</a></li>
+<li class="lang_toggle">
+    <button type="button" class="language__btn" lang="en">Language</button>
+    <div class="language">
+        <div class="language__inner">
+            <button type="button" class="language__close"><img src="/images/language_close.png" alt="ã¡ãã¥ã¼ãéãã" width="15" height="15"></button>
+            <ul class="language__list">
+                <li><a href="https://www.yasanichi.jp/proxy/FCU?target=https://www.city.fuchu.tokyo.jp/">ããããã«ã»ãã</a></li>
+                <li lang="en"><a href="https://honyaku.j-server.com/LUCFUCHU/ns/w4/jaen/">Englishï¼è±èªï¼</a></li>
+                <li lang="zh-CN"><a href="https://honyaku.j-server.com/LUCFUCHU/ns/w4/jazh/">ç°¡ä½ä¸­æï¼ä¸­å½èªç°¡ä½å­ï¼</a></li>
+                <li lang="zh-tw"><a href="https://honyaku.j-server.com/LUCFUCHU/ns/w4/jazhb/">ç¹é«ä¸­æï¼ä¸­å½èªç¹ä½å­ï¼</a></li>
+                <li lang="ko"><a href="https://honyaku.j-server.com/LUCFUCHU/ns/w4/jako/">íêµ­ì´ï¼éå½èªï¼</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+<li><a href="https://pvrtc.plusvoice.co.jp/cc/fuchu-denwa" target="_blank">æè©±ã§é»è©±ãã</a></li>
 </ul>
 <div class="head_search_wp">
 <div class="search-wp head_search sp-none"><img src="/images/spacer.gif" alt="" width="1" height="1"></div>
